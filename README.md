@@ -24,8 +24,11 @@ Welcome to the Expense Management Website - a full-stack web application develop
 ## Run the App
 
 1. Clone the repository: `git clone https://github.com/username/expense-management.git`
-2. Start the Backend Server: In the root directory, run `npm start`.
-3. Start the Frontend: Navigate to the 'client' directory using `cd client`, and run `npm start` to launch the frontend.
+2. Navigate to the 'config' directory and create a `config.env` file.
+3. Inside the `config.env` file, add MongoDB URI:
+   `MONGO_URI="mongodb+srv://expenseManagement:expenseManagement@cluster0.gpsl03g.mongodb.net/?retryWrites=true&w=majority"`
+5. Start the Backend Server: In the root directory, run `npm start`.
+6. Start the Frontend: Navigate to the 'client' directory using `cd client`, and run `npm start` to launch the frontend.
 
 
 
