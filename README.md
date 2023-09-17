@@ -3,6 +3,8 @@
 ## Overview
 
 Welcome to the Expense Management Website - a full-stack web application developed using the MERN (MongoDB, Express.js, React.js, and Node.js) stack. This platform offers users a seamless and intuitive experience to efficiently manage their income and expenses. The website provides a comprehensive set of features, including user registration and login, tabular representation of expenses, and graphical visualizations for better financial insights.
+### Demo Video
+https://github.com/raunak-dev-edu/ExpenseManagement/assets/95216822/65842597-6b8b-4082-b997-b68a9ba38d0f
 
 ## Features
 
